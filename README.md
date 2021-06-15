@@ -13,8 +13,7 @@ Run the database:
 
 ### `npx json-server --watch data/db.json --port 8000`
 Open [http://localhost:3000](http://localhost:8000) to view it in the browser.
-http://localhost:8000/products : for the products
+http://localhost:8000/products : for the products , 
 http://localhost:8000/categories : for the categories
 
-Runs the app in the development mode.\
 
