@@ -1,0 +1,72 @@
+.breadcrumb {
+  background-color: #FFFFFF !important;
+  font-size: 12px;
+  padding: .75rem 0 !important;
+}
+
+.breadcrumb li a {
+  color: #555555;
+}
+
+.breadcrumb li.active {
+  color: #51B549;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: '>' !important;
+}
+
+.categories-title {
+  color: #044DC3;
+  text-align: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: 400;
+}
+
+.categories-title img {
+  padding-right: .3rem;
+  width: 18px;
+}
+
+.categories {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.categories__item {
+  background-color: #FFFFFF;
+  border: 1px solid #E2E7E9;
+  border-radius: 10px;
+  padding: .5rem;
+  width: 140px;
+  font-size: 11px;
+  margin: 5px 5px 5px 0;
+  color: #707070;
+  cursor: pointer;
+}
+
+.categories__item.active {
+  background-color: #044DC3;
+  border: 1px solid #044DC3;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 767px) {
+  .categories-title {
+    font-size: 15px;
+  }
+  .categories {
+    -ms-flex-wrap: inherit;
+        flex-wrap: inherit;
+    overflow-x: scroll;
+  }
+}
+/*# sourceMappingURL=Categories.css.map */

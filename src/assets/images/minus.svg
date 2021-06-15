@@ -1,0 +1,14 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="a">
+   <rect class="a" width="30" height="30" fill="none" id="svg_1"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g class="b" clip-path="url(#a)" id="svg_2">
+   <path class="c" d="m15,0a15,15 0 1 1 -15,15a15,15 0 0 1 15,-15" fill="#d6e6ff" id="svg_3"/>
+   <path stroke="null" style="vector-effect: non-scaling-stroke;" class="d" d="m22.351,14l-6.351,0l-2,0l-6,0a1,1 0 0 0 0,2l6,0l2,0l6.351,0a1,1 0 0 0 0,-2" fill="#044dc3" id="svg_4"/>
+  </g>
+ </g>
+</svg>

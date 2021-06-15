@@ -1,0 +1,218 @@
+{ 
+  "products":[
+    {
+      "id":1,
+      "name":"Z6 Akıllı Saat Kameralı Konuşma Garantili Sim Kartlı Bluetooth",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm92132766-1/S/z6-sim-kartli-akilli-saat-kamerali-konusma-garantili-bluetooth-kcm92132766-1-a055ab1c84c94d1a80aeec527c414e3c.jpg",
+      "price":"399,90 TL",
+      "free_delivery":true,
+      "cat_id":1
+    },
+    {
+      "id":2,
+      "name":"Calvin Klein Euphoria EDP 100 ml Kadın Parfüm",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm18557292-1/M/calvin-klein-euphoria-edp-100-ml-kadin-parfum-kcm18557292-1-05c0d060ea5b4c198187ea1239d4ef1a.jpg",
+      "price":"145,61 TL",
+      "free_delivery":false,
+      "cat_id":2
+    },
+    {
+      "id":3,
+      "name":"Gold Çizgili Vazoda 2 Dal Orkide Çiçeği",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/at3738-1/L/at3738-1-8d8d1c20d6979c9-6d0b02f0.jpg",
+      "price":"249,90 TL",
+      "free_delivery":true,
+      "cat_id":3
+    },
+    {
+      "id":4,
+      "name":"925 Ayar Gümüş Çeyreklik Bileklik (Y)",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc6830162-1/M/pullu-zincirli-ceyreklik-gumus-bileklik-kc6830162-1-dddaad73100343f6883ce56eaae12580.jpg",
+      "price":"329,90 TL",
+      "free_delivery":false,
+      "cat_id":4
+    },
+    {
+      "id":5,
+      "name":"Sailor SD-3160 Siyah Dağcı Seyahat Sırt Çantası 55 LT Outdoor-Trekking",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc8658293-5/S/sailor-sd-3160-siyah-dagci-seyahat-sirt-cantasi-55-lt-outdoor-trekking-kc8658293-5-f2a216d648aa4b3bb238030eadf16927.jpg",
+      "price":"499,90 TL",
+      "free_delivery":true,
+      "cat_id":5
+    },
+    {
+      "id":6,
+      "name":"Büyük Boy Metal Osmanlı Bizans Satranç Takımı Parlak ve Ceviz Rengi",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm78416541-1/S/buyuk-boy-osmanli-bizans-satranc-takimi-fatih-sultan-mehmet-vs-bizans-kcm78416541-1-1f0c08d0de704de0bbb161192e5dcf2f.jpg",
+      "price":"19,90 TL",
+      "free_delivery":true,
+      "cat_id":6
+    },
+    {
+      "id":7,
+      "name":"130 Cm Papyonlu Büyük Ayıcı (%100 Yerli)",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm77938460-1/S/130-cm-papyonlu-buyuk-ayicik-100-yerli-kcm77938460-1-b30ad04d14b94146b27e120381881f63.jpg",
+      "price":"89,90 TL",
+      "free_delivery":true,
+      "cat_id":7
+    },
+    {
+      "id":8,
+      "name":"925 Ayar Gümüş Dualı İsimli Nazar İgnesi",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc496971-1/S/925-ayar-gumus-simli-nazar-gnesi-kc496971-1-f84ee47da4cb42b49c30988201b39a2f.jpg",
+      "price":"29,90 TL",
+      "free_delivery":true,
+      "cat_id":8
+    },
+    {
+      "id":9,
+      "name":"Özel Tatlar Çikolata Kutusu 300 gr",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/ck191-1/S/ck191-1-8d89835ba71e6ba-1e68bf66.jpg",
+      "price":"59,90 TL",
+      "free_delivery":true,
+      "cat_id":9
+    },
+    {
+      "id":10,
+      "name":"Kucak Dolusu Aşk 25 Kırmızı Gül Buketi",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/at4035-1/S/at4035-1-8d799ded4d435fc-8f463ba7.jpg",
+      "price":"199,90 TL",
+      "free_delivery":true,
+      "cat_id":10
+    },
+    {
+      "id":11,
+      "name":"Arzum AR4086 Pronto 800 W Dikey Süpürge",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm54756565-1/S/arzum-ar4086-pronto-800-w-dikey-supurge-kcm54756565-1-223caf81414e43978f2dfee85689196e.jpg",
+      "price":"299,90 TL",
+      "free_delivery":true,
+      "cat_id":11
+    },
+    {
+      "id":12,
+      "name":"%100 Doğal At Kılı Fırçası Selülit Fırçası",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm44411443-1/S/at-kili-fircasi-selulit-giderici-dogal-at-kili-fircasi-kcm44411443-1-765bd07f217f4fe69b22094490eb5a84.jpg",
+      "price":"29,90 TL",
+      "free_delivery":false,
+      "cat_id":12
+    },
+    {
+      "id":13,
+      "name":"Adidas Tensaur K Beyaz Genç Koşu Ayakkabısı EG2554",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc5911598-5/S/adidas-tensaur-k-beyaz-genc-kosu-ayakkabisi-eg2554-kc5911598-5-7332c95d6b0548a882d10e611cd036c6.jpg",
+      "price":"299,90 TL",
+      "free_delivery":true,
+      "cat_id":13
+    },
+    {
+      "id":14,
+      "name":"20 Jant Beemer Kırmızı Bisiklet",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm63586549-1/M/tunca-beemer-20-jant-kirmizi-cocuk-bisikleti-walke-koruyucu-set-kcm63586549-1-7f17d3fd8b5a4031ab7a53f1485433a0.jpg",
+      "price":"599,90 TL",
+      "free_delivery":true,
+      "cat_id":1
+    },
+    {
+      "id":15,
+      "name":"Royal Club De Polo Barcelona Quartz Rose Gold Metal Kadın Kol Saati RPWA039601",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm72832383-4/S/royal-club-de-polo-barcelona-quartz-rose-gold-metal-kadin-kol-saati-kcm72832383-4-01955050585c4b50a268fac34d72d4c1.jpg",
+      "price":"29,90 TL",
+      "free_delivery":false,
+      "cat_id":2
+    },
+    {
+      "id":16,
+      "name":"FLS 679 430 FLIRT UNISEX GÜNEŞ GÖZLÜĞÜ",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kcm30350075-1/S/fls-679-250-flirt-gunes-gozlugu-kcm30350075-1-ca16fd080d6e4fb4a5872f55b6b3e4fb.jpg",
+      "price":"89,90 TL",
+      "free_delivery":true,
+      "cat_id":3
+    },
+    {
+      "id":17,
+      "name":"Kişiye Özel 12 Fotoğraflı Led Işıklı ipli Mandallı Ahşap Fotoğraf Çerçevesi",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc7108526-1/S/kisiye-ozel-12-fotografli-mandalli-pli-led-sikli-fotograf-askisi-kc7108526-1-3a6c2d1d33f848e38ba26d67fd5cfdc2.jpg",
+      "price":"49,90 TL",
+      "free_delivery":false,
+      "cat_id":4
+    },
+    {
+      "id":18,
+      "name":"Kalbim Senin İçin Atıyor Sevgiliye Hediye Gece Lambası",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc593725-1/S/kalbim-senin-icin-atiyor-sevgiliye-hediye-gece-lambasi-kc593725-1-1.jpg",
+      "price":"69,90 TL",
+      "free_delivery":false,
+      "cat_id":5
+    },
+    {
+      "id":19,
+      "name":"90 Cm Efsane Mavi Yastıklı Uyku Arkadaşı  Peluş Ayıcık 78236",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc6159836-1/M/90-cm-efsane-mavi-yastikli-uyku-arkadasi-pelus-ayicik-kc6159836-1-994deec571fe45a58e0e4c735730d32a.jpg",
+      "price":"89,90 TL",
+      "free_delivery":false,
+      "cat_id":6
+    },
+    {
+      "id":20,
+      "name":"Etnik Fil El Yapımı Krem Parlak Kupa (Yeşil Kulp)",
+      "photo":"https://cdn03.ciceksepeti.com/cicek/kc2074095-1/S/etnik-fil-el-yapimi-krem-parlak-kupa-kc2074095-1-41e30b3d02d041a584553cf818440d9f.jpg",
+      "price":"39,90 TL",
+      "free_delivery":true,
+      "cat_id":7
+    }
+  ],
+  "categories":[
+    {
+      "id":1,
+      "name": "Elektronik"
+    },
+    {
+      "id":2,
+      "name": "Ev ve Yaşam"
+    },
+    {
+      "id":3,
+      "name": "Evcil Hayvan"
+    },
+    {
+      "id":4,
+      "name": "Kitap"
+    },
+    {
+      "id":5,
+      "name": "Oyuncak"
+    },
+    {
+      "id":6,
+      "name": "Spor"
+    },
+    {
+      "id":7,
+      "name": "Çiçek"
+    },
+    {
+      "id":8,
+      "name": "Hediye"
+    },
+    {
+      "id":9,
+      "name": "Moda, Aksesuar"
+    },
+    {
+      "id":10,
+      "name": "Ofis, Kırtasiye"
+    },
+    {
+      "id":11,
+      "name": "Parfüm"
+    },
+    {
+      "id":12,
+      "name": "Kişisel Bakım"
+    },
+    {
+      "id":13,
+      "name": "Petshop"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+$on-mobile: "max-width: 767px";
+$up-mobile: "min-width: 768px";
+$white: #FFFFFF;
+$blue: #044DC3;
+$yellow: #FFCE00;
+$basket-red: #F54257;
+$count-red: #FF5B4D;
+$border-color: #EDF1F2;
+@mixin search-input{
+  padding: .375rem 50px .375rem 40px;
+  border: 2px solid $border-color;
+  background-color: #F7F7F7;
+  font-size: 14px;
+  &:focus{
+    z-index: 0;
+  }
+} 
+@mixin search-basket-btn {
+  position: relative;
+  float: right;
+  font-size: 15px;
+  .basket-count{
+    position: absolute;
+    background-color: $count-red;
+    right: 0;
+    top: -10px;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    padding-top: .25rem;
+  }
+}
+@mixin search-btn {
+  background-color: #51B549;
+  color: #FFFFFF;
+  border: 2px solid $border-color;
+  position: absolute;
+  right: .1rem;
+  padding: .2rem .75rem;
+  top: .01rem;
+}
+@mixin search-img {
+  position: absolute;
+  z-index: 1;
+  top: .6rem;
+  left: 1rem;
+}
+.header{
+  &__top{
+    margin-block: 1rem;
+    .search-wrapper{
+      input{
+        @include search-input
+      }
+      img{
+        @include search-img
+      }
+      button{
+        @include search-btn
+      }
+    }
+    .basket-wrapper{
+      button{
+        background-color: $blue;
+        border-color: $blue;
+        @include search-basket-btn
+      }
+      .basket-info{
+        background-color: $basket-red;
+        border-radius: .5rem;
+        padding: 12px;
+        position: absolute;
+        top: 45px;
+        font-size: 13px;
+        color: $white;
+        .price{
+          color: $yellow;
+        }
+        .progress{
+          height: 5px;
+          margin: .5rem 1rem 0;
+          background-color: #D01D32;
+          .progress-bar{
+            background-color: $yellow;
+          }
+        }
+        &::after{
+          content: "";
+          position: absolute;
+          bottom: 100%;
+          right: 25%;
+          border-width: 5px;
+          border-style: solid;
+          border-color: transparent transparent $basket-red transparent;
+        }
+      }
+    }
+  }
+  &__top-mobile{
+    .logo-wrapper{
+      border-bottom: 1px solid $blue;
+      .logo{
+        padding:15px;
+      }
+      .basket-wrapper{
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        button{
+          background-color: $white;
+          border-color: $white;
+          @include search-basket-btn
+        }
+      }
+    }
+    .search-wrapper{
+      margin: 10px 0;
+      input{
+        @include search-input
+      }
+      img{
+        @include search-img
+      }
+      button{
+        @include search-btn
+      }
+    }
+  }
+  &__bottom{
+    .nav-item{
+      font-size: 25px;
+      color: $white;
+      padding:.5rem 0;
+    }
+  }
+
+  @media screen and ($up-mobile){
+    &__top-mobile{
+      display: none;
+    }
+  }
+  @media screen and ($on-mobile){
+    &__top{
+      display: none;
+    }
+    &__bottom{
+      display: none;
+    }
+  }
+}
